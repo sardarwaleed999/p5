@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ body{
+  width: 100%;
+ }
+
+.container{
+  /*border: 20px solid white;*/
+  margin-top: 100px;
+}
+
+.btn.dropdown-toggle {
+   color: rgb(58, 126, 213);
+}
+.btn.mybtn{
+  background-color:   rgb(47, 119, 212);
+  color: white;
+}
+.btn.mylbtn{
+  color: white;
+  background-color: oklab(76.842% 0.01474 0.1534);
+  width: 90px;
+}
+
+
+.gt{
+    
+    
+}
+
+.fth {
+    font-size: 45px;
+    color: #3096de;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ftp {
+    
+    color: #4787b5;
+}
+.btn.mybtnn{
+  background-color:   rgb(47, 119, 212);
+  color: white;
+  margin-top: 50px;
+  
+}
+
+
+.hp{
+  /*border: 20px solid white;*/
+width: 500px;
+height: 190px;
+float: right;
+margin-top:90px ;
+}
+
+.fs{
+ background-color: hsla(201, 100%, 50%, 0.259);
+ height: 500px;
+}
+@media (min-width: 768px) and (max-width: 991px){
+    .col-md-6 {
+        flex: 0 0 auto;
+        width: 50%;
+        height: 300px;
+    }
+}
+
+
+/* 2nd part css*/
+.fth2 {
+    font-size: 55px;
+    color: #050505;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* 4nd part css*/
+
+ .fth4{
+  font-size: 55px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: auto;
+  letter-spacing: 2px;
+ }
+ .ftht{
+  letter-spacing: 2px;
+ }
+
+.middle-card {
+  transform: scale(1.20);
+  z-index: 25;
+}
+
+.card{
+     line-height: 2;
+     margin-top: 45px;
+}
+.fbg{
+  background-color: #131ee6;
+  color: white;
+  margin-top: 20px;
+}
+.main4{
+  background-color: #131ee6;
+  height: 300px;
+  
+}
