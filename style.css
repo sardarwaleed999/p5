@@ -96,12 +96,27 @@ margin-top:90px ;
      margin-top: 45px;
 }
 .fbg{
-  background-color: #131ee6;
+ break-inside: ;
   color: white;
   margin-top: 20px;
 }
 .main4{
+  background-color: #131ee6;  
+}
+.sixbox{
+  margin-top: 130px;
+}
+.sixbox .row{
+  margin-top: 80px;
+}
+
+.main6{
   background-color: #131ee6;
-  height: 300px;
-  
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.text-white{
+  color: rgb(246, 241, 241) !important;
 }
