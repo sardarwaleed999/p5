@@ -120,3 +120,11 @@ margin-top:90px ;
 .text-white{
   color: rgb(246, 241, 241) !important;
 }
+.footer{
+  background-color: #131ee6;
+  color: rgb(246, 241, 241) !important;
+
+}
+.mt{
+  margin-top: 20px;
+}
