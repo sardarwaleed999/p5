@@ -12,15 +12,15 @@
 }
 
 .btn.dropdown-toggle {
-   color: rgb(58, 126, 213);
+   color: #4F9CF9;
 }
 .btn.mybtn{
-  background-color:   rgb(47, 119, 212);
+  background-color: #4F9CF9;
   color: white;
 }
 .btn.mylbtn{
   color: white;
-  background-color: oklab(76.842% 0.01474 0.1534);
+  background-color: #FFE492;
   width: 90px;
 }
 
@@ -40,7 +40,7 @@
     color: #4787b5;
 }
 .btn.mybtnn{
-  background-color:   rgb(47, 119, 212);
+  background-color: #4F9CF9;
   color: white;
   margin-top: 50px;
   
@@ -56,7 +56,7 @@ margin-top:90px ;
 }
 
 .fs{
- background-color: hsla(201, 100%, 50%, 0.259);
+ background-color:#C4DEFD;
  height: 500px;
 }
 @media (min-width: 768px) and (max-width: 991px){
@@ -101,7 +101,7 @@ margin-top:90px ;
   margin-top: 20px;
 }
 .main4{
-  background-color: #131ee6;  
+  background-color: #043873;  
 }
 .sixbox{
   margin-top: 130px;
@@ -111,7 +111,7 @@ margin-top:90px ;
 }
 
 .main6{
-  background-color: #131ee6;
+  background-color: #043873;
   color: white;
   margin: 0;
   padding: 0;
@@ -121,10 +121,55 @@ margin-top:90px ;
   color: rgb(246, 241, 241) !important;
 }
 .footer{
-  background-color: #131ee6;
+  background-color: #043873;
   color: rgb(246, 241, 241) !important;
 
 }
 .mt{
   margin-top: 20px;
+}
+.background{
+  background-image: url(BACKGROUND.png) ;
+  background-repeat: no-repeat;
+background-position: bottom left;
+
+}
+.back{
+  background-image: url(back.png) ;
+   background-repeat: no-repeat;
+   background-position:  left;
+}
+.bbac{
+  background-image: url(ele.png) ;
+}
+.bbbgr{
+  background-image: url(ele.png) ;
+}
+.pila {
+  background-image: url("pila.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+
+  padding: 20px;   
+  margin: 20px 0; 
+}
+.lila {
+  background-image: url("pila.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+ background-size: 70%;
+  padding: 10px;   
+  margin: 10px ; 
+}
+
+
+
+.sila{
+    background-image: url("pila.png");
+  background-repeat: no-repeat;
+  background-position: bottom center ;
+ background-size: 40%;
+  padding: 10px;   
+  margin: 10px ; 
+
 }
